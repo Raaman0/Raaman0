@@ -73,6 +73,11 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Coding Animation"/>
-</div>
+## 💡 Quote
+<p align="center">
+  <em>"Dreams Never Sleep"</em>
+</p>
+
+---
+
+
