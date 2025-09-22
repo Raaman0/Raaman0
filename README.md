@@ -1,109 +1,78 @@
-<div align="center">
-  <img src=![bg](https://github.com/user-attachments/assets/62a29c06-a99c-47b4-af5a-26345242a7a3)
- width="150" style="border-radius: 50%;" alt="Raman Pall"/>
-  <h1>Hi there 👋, I'm <strong>Raman Pall</strong></h1>
-  <p>🎓 Second-year CSE AIML student passionate about learning and building things.</p>
-</div>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://github.com/Raaman0/Raaman0/blob/main/assets/bg.png?raw=true" width="800" style="border-radius:15px;" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/Raaman0">
-    <img src="https://komarev.com/ghpvc/?username=Raaman0&color=blue" alt="Profile views" />
+<h1 align="center">Hey 👋, I'm Raman</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F0FF&center=true&vCenter=true&width=600&lines=Developer+%7C+Innovator+%7C+AI/ML+Enthusiast" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+- 🎓 Second-year CSE AIML student  
+- 🌱 Exploring **Fintech, Blockchain, and AI/ML**  
+- 🧠 Working on **NeuroRehab** – motion-detection rehabilitation project  
+- 💼 Contributed to **MargSetu** – connecting young entrepreneurs with investors  
+- 💻 Passionate about building **real-world solutions**  
+
+---
+
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Raaman0/Movie_Recommendation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raaman0&repo=Movie_Recommendation&theme=radical" />
   </a>
+  <a href="https://github.com/exhaustmosk/CodoraX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=exhaustmosk&repo=CodoraX&theme=radical" />
+  </a>
+  <a href="https://github.com/Raaman0/Margsetu-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raaman0&repo=Margsetu-&theme=radical" />
+  </a>
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raaman0&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaman0&layout=compact&theme=radical" height="180px"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raaman0&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 </div>
 
 ---
 
-## 📖 About Me
+## 🛠 Tech Stack
 
-I'm a technology enthusiast with a keen interest in:
-
-✔ Fullstack development  
-✔ Artificial Intelligence & Machine Learning  
-✔ Database management  
-
-Currently learning and experimenting with new technologies to build projects that solve real-world problems.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,next,nodejs,mongodb,firebase,unity,git,figma&theme=dark" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raaman0&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaman0&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Raaman0&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raaman0&theme=onedark" alt="Trophies" />
-</div>
-
----
-
-## 💬 Quotes
-
-> 💡 *Strive not to be a success, but rather to be of value.* – Albert Einstein
-
-> 💻 *Code is like humor. When you have to explain it, it’s bad.* – Cory House
-
-> 🌱 *Learning never exhausts the mind.* – Leonardo da Vinci
-
----
-
-## ✨ Fun Animation
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Coding Animation" />
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
+## 💬 Connect with Me
+<p align="center">
   <a href="https://www.linkedin.com/in/raman-pall-bb7622210/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pallraman41@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
-
----
-
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+</p>
 
 ---
 
 <div align="center">
-  <p>Let's connect, collaborate, and create something amazing! 🚀</p>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Coding Animation"/>
 </div>
-
