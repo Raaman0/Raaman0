@@ -1,139 +1,205 @@
-<!-- ===================== HERO SECTION ===================== -->
+<div align="center">
+<img src="https://github.com/Raaman0/Raaman0/blob/main/assets/bg.png?raw=true" width="100%" alt="" />
+<br><br>
 
+Raman Pall
+
+AI/ML Engineer · Full-Stack Developer · Building Applied AI Systems
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=560&height=40&lines=Shipping+applied+AI+across+health-tech+and+fintech;CSE+%E2%80%94+AI%2FML+%C2%B7+Turning+research+into+working+software" alt="Typing SVG" />
+</a>
+<br>
+CSE (AI/ML) student who builds end-to-end — from the model to the interface that ships it.
+Currently focused on intelligent agents, applied machine learning, and fintech infrastructure.
+
+<br>
+Show Image
+Show Image
+Show Image
+
+</div>
+<br>
+Current Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+Health-Tech & Applied AI
+Motion-analysis and rehabilitation systems that combine AI/ML with real-world clinical use cases.
+
+</td>
+<td width="50%" valign="top">
+Machine Learning Systems
+Recommendation engines and constraint-based intelligent agents — search, heuristics, and inference over raw prediction.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+FinTech & InsurTech
+Parametric financial products for underserved segments of the gig economy.
+
+</td>
+<td width="50%" valign="top">
+Full-Stack Product Engineering
+Taking systems from notebook to production — APIs, interfaces, and the infrastructure in between.
+
+</td>
+</tr>
+</table>
+<br>
+Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+Intelligent Constraint-Based Scheduling Agent
+A CSP-driven exam timetable scheduler using backtracking, forward checking, and heuristics (MRV, Degree, LCV), wrapped in an intelligent agent with a Streamlit interface and a strategy comparison framework.
+
+Python CSP Streamlit
+
+Repository ↗
+
+</td>
+<td width="50%" valign="top">
+FlowSure
+Parametric income insurance for quick-commerce delivery partners — payouts trigger automatically from verifiable data instead of manual claims processing.
+
+FinTech InsurTech
+
+Repository ↗
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+MargSetu
+A platform connecting young entrepreneurs with investors — structured pitching, discovery, and early-stage funding conversations in one place.
+
+JavaScript Full-Stack
+
+Repository ↗
+
+</td>
+<td width="50%" valign="top">
+Movie Recommendation Engine
+A hybrid recommender combining content-based and collaborative filtering, served through an interactive Streamlit application.
+
+Python Machine Learning Streamlit
+
+Repository ↗
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+AI Fitness Web Application
+A full-stack fitness platform with AI-assisted feedback — an early testbed for the motion-analysis work behind the NeuroRehab focus area.
+
+TypeScript Full-Stack AI
+
+Repository ↗
+
+</td>
+<td width="50%" valign="top">
+<br>
+More work in progress — check pinned repositories for the latest.
+
+<br>
+</td>
+</tr>
+</table>
+<br>
+Skills
+
+Languages
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+
+Frontend
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+
+Backend
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+
+AI / ML
+<br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+
+Databases & Cloud
+<br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000" />
+
+Game Development
+<br>
+<img src="https://img.shields.io/badge/Unity-222C37?style=flat-square&logo=unity&logoColor=white" />
+
+Tools
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+<br>
+GitHub Activity
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Raaman0&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://streak-stats.demolab.com/?user=Raaman0&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="100%"/>
+</td>
+</tr>
+</table>
 <p align="center">
-  <img src="https://github.com/Raaman0/Raaman0/blob/main/assets/bg.png?raw=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaman0&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" width="45%"/>
 </p>
-
-<h1 align="center">Hey 👋 I'm Raman Pall</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;AI%2FML+Engineer;Unity+Game+Developer;Building+NeuroRehab+AI;Future+FinTech+Innovator+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raaman0&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-brightgreen?style=for-the-badge" />
-</p>
-
----
-
-# 🧠 AI STATUS DASHBOARD
-
-```diff
-+ NeuroRehab AI Engine: ACTIVE
-+ Motion Detection Model: TRAINING
-+ Investor Matchmaking AI: DEPLOYED
-+ Fullstack Systems: SCALING
-```
-
----
-
-# 🚀 Latest Projects (Auto Updates)
-
+<details>
+<summary><b>Recently active repositories</b></summary>
+<br>
 <!--START_SECTION:repos-->
 <!--END_SECTION:repos-->
-
----
-
-# ⏳ Weekly Coding Stats (Auto)
-
+</details>
+<details>
+<summary><b>Weekly coding activity (WakaTime)</b></summary>
+<br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</details>
+<br>
+Timeline
 
----
+CurrentlyBuilding applied AI and full-stack systems across health-tech, fintech, and intelligent agentsLearningProduction ML systems, MLOps, and distributed backend architectureNextContributing to a team building AI systems at real-world scale
 
-# 🐍 Contribution Snake
+<br>
+Open Source
 
-<p align="center">
-  <img src="https://github.com/Raaman0/Raaman0/blob/output/github-contribution-grid-snake.svg" />
-</p>
+Most of what I build starts as a public repository — early prototypes included. I'd rather ship something working and iterate in the open than polish in private. Pinned repositories above reflect current best work; everything else is visible on the repositories tab.
 
----
+<br>
 
-# 📊 GitHub Analytics
+<div align="center">
+Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raaman0&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raaman0&theme=tokyonight" height="170"/>
-</p>
+Show Image
+Show Image
+Show Image
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaman0&layout=compact&theme=tokyonight"/>
-</p>
+<sub>Open to internships, research collaborations, and early-stage opportunities.</sub>
 
----
-
-# 🌐 Tech Stack
-
-## 💻 Programming & Web
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff"/>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff"/>
-</p>
-
-## 🧠 AI / ML
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=fff"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff"/>
-</p>
-
-## 🎮 Game Dev
-
-<p>
-<img src="https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=fff"/>
-</p>
-
----
-
-# 🖥 RamanOS Terminal
-
-```bash
-> whoami
-Raman Pall | CSE AIML Student
-
-> focus --current
-NeuroRehab AI Motion Prediction System
-
-> tech --top
-Fullstack | AI/ML | Unity | FinTech | Blockchain
-
-> mission
-Build real-world impactful tech products.
-
-> status
-Shipping. Learning. Scaling.
-```
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/raman-pall-bb7622210/">
-    <img src="https://img.shields.io/badge/LinkedIn-Raman%20Pall-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:pallraman41@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-pallraman41@gmail.com-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>"Dreams Never Sleep"</em>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Raaman0/Raaman0/blob/main/assets/coding.gif?raw=true" width="300" />
-</p>
+</div>
